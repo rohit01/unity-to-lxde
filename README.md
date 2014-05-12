@@ -1,4 +1,7 @@
-ubuntu_lxde
-===========
+Unity to LXDE
+=============
 
-Script to completely remove Unity and install LXDE and some basic utilities.
+**This script completely removes unity and installs LXDE along with some basic utilities and development tools.**
+
+##### **Installation**: Just execute *ubuntu_lxde.sh* and follow instructions.
+
